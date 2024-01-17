@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rotimi Ajayi
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Java
+- 💞️ I'm proficient in **Python, C, HTML & CSS**
 - 💞️ I’m looking to collaborate on web development
 - 📫 Send me an email at tomiwaajayi85@yahoo.com
 
